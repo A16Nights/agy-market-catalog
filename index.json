@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "track": "verified",
+  "generatedAt": "2026-11-25T14:04:11.000Z",
+  "catalogVersion": "2026.1125.1",
+  "plugins": [
+    {
+      "id": "azwosile__agy-market",
+      "canonicalName": "agy-market",
+      "scopedName": "azwosile--agy-market",
+      "forceScopedInstall": false,
+      "displayName": "AGY Market · 反重力插件市场",
+      "description": {
+        "zh": "Google Antigravity 社区插件市场侧边栏，支持镜像下载校验、本地冲突检查与一键安装更新。",
+        "en": "Community plugin marketplace Sidebar panel & CLI for Google Antigravity with SHA-256 archive verification, conflict checks, and one-click updates."
+      },
+      "version": "1.6.0",
+      "gitTag": "v1.6.0",
+      "commitSha": "50ae706404263f8628b27603781e8255ff3a43e3",
+      "repository": {
+        "url": "https://github.com/azwosile/agy-market",
+        "repositoryId": 1468650761,
+        "ownerId": 103982769,
+        "stars": 3,
+        "pluginRoot": "."
+      },
+      "distribution": {
+        "tarballUrl": "https://github.com/azwosile/agy-market/archive/50ae706404263f8628b27603781e8255ff3a43e3.tar.gz",
+        "sha256": "d2f555f4e4074232bc6d1bb540915cba2d5ee5df95fcdcd9017ba4ef0cf06925",
+        "sizeBytes": 451951,
+        "npmMirrorPkg": null,
+        "preservePaths": []
+      },
+      "media": {
+        "iconUrl": "https://azwosile.github.io/agy-market-catalog/icons/azwosile__agy-market.svg",
+        "screenshots": []
+      },
+      "taxonomy": {
+        "categories": [
+          "productivity",
+          "developer-tools"
+        ],
+        "tags": [
+          "marketplace",
+          "sidecar",
+          "plugin-manager",
+          "sidebar"
+        ],
+        "platforms": [
+          "win32",
+          "darwin",
+          "linux"
+        ]
+      },
+      "capabilities": {
+        "badges": [
+          "sidecar-ui",
+          "host-enhancement"
+        ],
+        "rulesEstimatedTokens": 0,
+        "mcpServers": [],
+        "mcpRemoteDomains": [],
+        "hookEvents": [],
+        "hostEnhancementKind": [
+          "cdp"
+        ]
+      },
+      "updatedAt": "2026-11-25T12:27:08Z",
+      "ranking": {
+        "score": 86.59,
+        "compatTier": "native",
+        "breakdown": {
+          "popularity": 0.2419,
+          "freshness": 0.9993,
+          "completeness": 0.9024,
+          "native": 1,
+          "hygiene": 1,
+          "nativeGate": 1,
+          "trackBonus": 8,
+          "penaltyMultiplier": 1,
+          "effectiveStars": 3
+        },
+        "archived": false,
+        "stale": false
+      }
+    },
+    {
+      "id": "azwosile__agy-wallpaper-prism",
+      "canonicalName": "agy-wallpaper-prism",
+      "scopedName": "azwosile--agy-wallpaper-prism",
+      "forceScopedInstall": false,
+      "displayName": "Wallpaper Prism",
+      "description": {
+        "zh": "Antigravity 黑曜棱镜毛玻璃皮肤与 Wallpaper Engine 工坊（支持浮岛/平铺布局、动态取色、本地视频与创意工坊壁纸）。",
+        "en": "Obsidian Prism glass skin and Wallpaper Engine studio for Antigravity with Floating Island layouts, dynamic accent tinting, and Ctrl+Alt+W controls."
+      },
+      "version": "2.1.0",
+      "gitTag": "v2.1.0",
+      "commitSha": "ded782412e78952d275643703b40ebb67b6e1608",
+      "repository": {
+        "url": "https://github.com/azwosile/agy-wallpaper-prism",
+        "repositoryId": 1467437597,
+        "ownerId": 103982769,
+        "stars": 21,
+        "pluginRoot": "."
+      },
+      "distribution": {
+        "tarballUrl": "https://github.com/azwosile/agy-wallpaper-prism/releases/download/v2.1.0/agy-wallpaper-prism-v2.1.0.tar.gz",
+        "sha256": "53a6e7c3eadaa9d36facdcadf4a21e2b25066d3e96b8c533725fd0c007296b26",
+        "sizeBytes": 522752,
+        "npmMirrorPkg": null,
+        "preservePaths": []
+      },
+      "media": {
+        "iconUrl": "https://azwosile.github.io/agy-market-catalog/icons/azwosile__agy-wallpaper-prism.svg",
+        "screenshots": []
+      },
+      "taxonomy": {
+        "categories": [
+          "ui-themes"
+        ],
+        "tags": [
+          "wallpaper",
+          "glass-skin",
+          "theme",
+          "sidebar"
+        ],
+        "platforms": [
+          "win32",
+          "darwin",
+          "linux"
+        ]
+      },
+      "capabilities": {
+        "badges": [
+          "sidecar-ui",
+          "host-enhancement"
+        ],
+        "rulesEstimatedTokens": 0,
+        "mcpServers": [],
+        "mcpRemoteDomains": [],
+        "hookEvents": [],
+        "hostEnhancementKind": [
+          "cdp"
+        ]
+      },
+      "updatedAt": "2026-11-25T06:56:28Z",
+      "ranking": {
+        "score": 93.01,
+        "compatTier": "native",
+        "breakdown": {
+          "popularity": 0.5008,
+          "freshness": 0.9968,
+          "completeness": 0.9024,
+          "native": 1,
+          "hygiene": 1,
+          "nativeGate": 1,
+          "trackBonus": 8,
+          "penaltyMultiplier": 1,
+          "effectiveStars": 21
+        },
+        "archived": false,
+        "stale": false
+      }
+    },
+    {
+      "id": "yunjuanyunshu114-byte__antigravity-observer",
+      "canonicalName": "gemini-neko-cockpit",
+      "scopedName": "yunjuanyunshu114-byte--gemini-neko-cockpit",
+      "forceScopedInstall": false,
+      "displayName": "Gemini 猫娘观察台 · Antigravity Observer",
+      "description": {
+        "zh": "Google Antigravity 2.0 应用内右下角 Gemini 猫娘桌面挂件与上下文 Token / 缓存命中率 / 模型额度实时观察台。",
+        "en": "In-app Gemini Neko companion widget and live context window, prompt-cache hit rate, and model quota observer cockpit for Antigravity 2.0."
+      },
+      "version": "1.3.0",
+      "gitTag": "v1.3.0",
+      "commitSha": "284350a618b4a8d4c4a5e499330823df5be2edaa",
+      "repository": {
+        "url": "https://github.com/yunjuanyunshu114-byte/antigravity-observer",
+        "repositoryId": 1459531455,
+        "ownerId": 346653287,
+        "stars": 60,
+        "pluginRoot": "."
+      },
+      "distribution": {
+        "tarballUrl": "https://github.com/yunjuanyunshu114-byte/antigravity-observer/archive/284350a618b4a8d4c4a5e499330823df5be2edaa.tar.gz",
+        "sha256": "58f772e4c35d5d294bf7264739b924e022be2478cba4553359fab8556e035e09",
+        "sizeBytes": 2285360,
+        "npmMirrorPkg": null,
+        "preservePaths": []
+      },
+      "media": {
+        "iconUrl": "https://azwosile.github.io/agy-market-catalog/icons/yunjuanyunshu114-byte__antigravity-observer.png",
+        "screenshots": []
+      },
+      "taxonomy": {
+        "categories": [
+          "monitoring-quota",
+          "ui-themes"
+        ],
+        "tags": [
+          "telemetry",
+          "quota",
+          "companion-widget",
+          "context"
+        ],
+        "platforms": [
+          "win32",
+          "darwin",
+          "linux"
+        ]
+      },
+      "capabilities": {
+        "badges": [
+          "sidecar-ui",
+          "host-enhancement"
+        ],
+        "rulesEstimatedTokens": 0,
+        "mcpServers": [],
+        "mcpRemoteDomains": [],
+        "hookEvents": [],
+        "hostEnhancementKind": [
+          "app-asar"
+        ]
+      },
+      "updatedAt": "2026-11-25T04:03:58Z",
+      "ranking": {
+        "score": 94.59,
+        "compatTier": "native",
+        "breakdown": {
+          "popularity": 0.6625,
+          "freshness": 0.9955,
+          "completeness": 0.8049,
+          "native": 1,
+          "hygiene": 1,
+          "nativeGate": 1,
+          "trackBonus": 8,
+          "penaltyMultiplier": 1,
+          "effectiveStars": 60
+        },
+        "archived": false,
+        "stale": false
+      }
+    },
+    {
+      "id": "zou172866__agy-dart",
+      "canonicalName": "agy-dart",
+      "scopedName": "zou172866--agy-dart",
+      "forceScopedInstall": false,
+      "displayName": "agy-dart",
+      "description": {
+        "zh": "Antigravity 全合一低延迟加速、KV-Cache 保护、上下文窗口守卫与 Sidecar 卡死看门狗面板插件。",
+        "en": "All-in-one Antigravity latency accelerator, KV-cache protector, SQLite FTS5 context-window guard, and live Sidecar dashboard."
+      },
+      "version": "1.7.2",
+      "gitTag": "v1.7.2",
+      "commitSha": "908871b31f87c6c4e7351e2b7398af1f5869532b",
+      "repository": {
+        "url": "https://github.com/zou172866/Antigravity-agy-dart",
+        "repositoryId": 1465415390,
+        "ownerId": 295114258,
+        "stars": 131,
+        "pluginRoot": "."
+      },
+      "distribution": {
+        "tarballUrl": "https://github.com/zou172866/Antigravity-agy-dart/archive/908871b31f87c6c4e7351e2b7398af1f5869532b.tar.gz",
+        "sha256": "e9f1435bfb3f0c84e007154f0287189e7d8acd2ab2ea95abce2661563694e1cd",
+        "sizeBytes": 1039282,
+        "npmMirrorPkg": null,
+        "preservePaths": []
+      },
+      "media": {
+        "iconUrl": "https://azwosile.github.io/agy-market-catalog/icons/zou172866__agy-dart.svg",
+        "screenshots": []
+      },
+      "taxonomy": {
+        "categories": [
+          "context-cache",
+          "developer-tools"
+        ],
+        "tags": [
+          "kv-cache",
+          "context-guard",
+          "latency",
+          "mcp"
+        ],
+        "platforms": [
+          "win32",
+          "darwin",
+          "linux"
+        ]
+      },
+      "capabilities": {
+        "badges": [
+          "global-rules",
+          "sidecar-ui",
+          "mcp-stdio",
+          "lifecycle-hooks"
+        ],
+        "rulesEstimatedTokens": 383,
+        "mcpServers": [
+          "agy-dart_context",
+          "agy-dart_fast"
+        ],
+        "mcpRemoteDomains": [],
+        "hookEvents": [
+          "PostToolUse",
+          "PreInvocation",
+          "PreToolUse",
+          "SessionStart",
+          "Stop"
+        ],
+        "hostEnhancementKind": []
+      },
+      "updatedAt": "2026-11-24T14:12:58Z",
+      "ranking": {
+        "score": 99.97,
+        "compatTier": "native",
+        "breakdown": {
+          "popularity": 0.7859,
+          "freshness": 0.9893,
+          "completeness": 0.9024,
+          "native": 1,
+          "hygiene": 1,
+          "nativeGate": 1,
+          "trackBonus": 8,
+          "penaltyMultiplier": 1,
+          "effectiveStars": 131
+        },
+        "archived": false,
+        "stale": false
+      }
+    }
+  ]
+}
